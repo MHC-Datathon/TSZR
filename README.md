@@ -19,7 +19,7 @@
 <h1> Visualizing Data </h1>
 
 <h3> Main data </h3>
-![hotspot](https://github.com/MHC-Datathon/TSZR/blob/main/hotspots.jpg?raw=true)
+![hotspot](https://github.com/MHC-Datathon/TSZR/blob/5e20ffe1684ed6e68c3dd254330fe055cc68c531/cuny.jpg)
 [MTA ACE VIOLATIONS]
 (https://public.tableau.com/app/profile/tiffany.zhu8039/viz/MTAACEViolations/HotSpots)
 [MTA PRE CONGESTION RIDERSHIP (MARCH 2024)] (https://public.tableau.com/app/profile/sara.lukacevic/viz/March2024ManhattanBusRidershipPre-Congestion/Sheet1)
