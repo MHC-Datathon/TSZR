@@ -30,6 +30,7 @@
 # Visualizing Data (Our Tableau Data Visualizations)
 
 ### Main data 
+## Do click on the links below as the images only show a snapshot of what we visualized. The MTA ACE violations Tableau for instance records multiple other data points too!
 ![hotspot](hotspots.jpg)
 [MTA ACE VIOLATIONS](https://public.tableau.com/app/profile/tiffany.zhu8039/viz/MTAACEViolations/HotSpots)
 ![pre](pre.jpg)
