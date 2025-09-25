@@ -9,8 +9,15 @@
 ### What factors impact the ACE violations at the largest hotspot? ###
 
 # Contextualizing our Question 
-<p> In this project, we kept these questions in mind: <b> How much do employees, students, and tourists impact the hotspot/ACE violations? </b>
-<b>Is it commercial use? Car services? Related bus/train lines? Geographical? How are lanes structured? What demographic makes up these riders? What businesses are around these routes? Public/private schools? Universities?</b> We also compared and contrasted two hotspots [Financial District vs Queens College route] to understand which factors are universal across NYC and which are unique to the dense Central Business District. Finally, we discussed, given our findings, how we can recognize these patterns and improve. </p>
+<p> In this project, we kept these questions in mind:
+  + How much do employees, students, and tourists impact the hotspot/ACE violations?
+  + Is it commercial use? Car services? Related bus/train lines? 
+  + Geographical? How are lanes structured? 
+  + What demographic makes up these riders? 
+  + What businesses are around these routes? Public/private schools? Universities?
+</p>
+
+<p> We also compared and contrasted two hotspots [Financial District vs Queens College route] to understand which factors are universal across NYC and which are unique to the dense Central Business District. Finally, we discuss our findings future steps. </p>
 
 # Our Process
 <p> We started by brain dumping all of our knowledge on the 3 provided questions. The three of us bring a unique perspective to our project, and it was crucial to note these differences to understand our connections and our relationship with the MTA. The two boroughs we found most interest in and familiarity with were Queens and Manhattan, which became the focal points of our project. Using MTA's open data portal, we consolidated various data reports to structure our main ideas. </p> <p> The data we used are:</p>
