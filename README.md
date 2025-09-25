@@ -1,8 +1,8 @@
 ## MHC++ x MTA Datathon 2025
 ## Team Name - TSZR 
 ### Team Members - Tiffany, Sara, Zara 
-#### Slide Deck: 
-#### Video Explanation: 
+#### [Click on here for Slide Deck](https://docs.google.com/presentation/d/1-3IXw0iE8VQ_0b0aUahq8Otvlld98QaLHnTVF3NJFz0/edit?usp=sharing) 
+#### Click here to view Video Explanation: 
 
 # Project Question 
 
@@ -36,11 +36,11 @@
 
 # Summarizing Final Findings + Insights 
 
-### Ridership for Manhattan buses has increased by nearly 20,000 riders per day on average, with this number being even higher on business days. Signs of increased ridership after congestion pricing was implemented. Violations in Manhattan and Queens have increased, but that has also coincided with many bus routes being added to the ACE program. 45% of ACE violations issued are located in Manhattan and Queens during 2024-2025. 
+<p> Ridership for Manhattan buses has increased by nearly 20,000 riders per day on average, with this number being even higher on business days. Signs of increased ridership after congestion pricing was implemented. Violations in Manhattan and Queens have increased, but that has also coincided with many bus routes being added to the ACE program. 45% of ACE violations issued are located in Manhattan and Queens during 2024-2025. </p> 
 
 
 # Final Message + Possible Next Steps
 
-### Analyzing bus speeds as a way to measure the effect of the ACE system on efficiency.
-### Expanding ridership data to MTA trains to analyze how congestion pricing affected Manhattan public transport ridership as a whole.
+<p> Analyzing bus speeds as a way to measure the effect of the ACE system on efficiency.</p> 
+<p> Expanding ridership data to MTA trains to analyze how congestion pricing affected Manhattan public transport ridership as a whole. </p>
 
