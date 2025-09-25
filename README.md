@@ -29,8 +29,10 @@
 # Analysis 
 ![queens](queens.jpg)
 [queens](https://public.tableau.com/app/profile/tiffany.zhu8039/viz/MTAACEViolations/HotSpots)
+![financial district](financialdistrict.jpg)
+![landmark](landmark.jpg)
 [landmark](https://www.6sqft.com/new-interactive-map-lets-you-explore-new-york-citys-landmarks/)
-[financial district](financialdistrict.jpg)
+![cuny](cuny.jpg)
 
 # Summarizing Final Findings + Insights 
 # Final Message 
