@@ -52,17 +52,21 @@ By analyzing the data, we noticed a particular, separate string of violation hot
 Therefore, after conducting more research of the context and surroundings of violation hotspots, we found that many landmarks, tourist attractions, transfer locations, and college and institutions are in the vicinity of many violation hotspots, and that these factors aren't only unique to Manhattan.
 </p>
 
-![queens](queens.jpg)
+![Queens College Bus Route](queens.jpg)
 
 [Queens College Bus Route](https://public.tableau.com/app/profile/tiffany.zhu8039/viz/MTAACEViolations/HotSpots)
 
 ![financial district](financialdistrict.jpg)
 
+[Financial District](https://public.tableau.com/app/profile/tiffany.zhu8039/viz/MTAACEViolations/HotSpots)
+
 ![Landmarks](landmark.jpg)
 
-[landmark](https://www.6sqft.com/new-interactive-map-lets-you-explore-new-york-citys-landmarks/)
+[Landmark](https://www.6sqft.com/new-interactive-map-lets-you-explore-new-york-citys-landmarks/)
 
 ![CUNY Colleges](cuny.jpg)
+
+[CUNY Colleges](https://cuny.manifoldapp.org/projects/teach-cuny-handbook/resource/map-of-cuny-campuses-across-the-five-boroughs)
 
 # Summarizing Final Findings + Insights 
 
