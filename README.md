@@ -17,7 +17,7 @@
 - What demographic makes up these riders?
 - What businesses are around these routes? Public/private schools? Universities?
 
-<p> We also compared and contrasted two hotspots [Financial District vs Queens College route] to understand which factors are universal across NYC and which are unique to the dense Central Business District. Finally, we discuss our findings future steps. </p>
+<p> We also compared and contrasted two hotspots [Financial District vs Queens College route] to understand which factors are universal across NYC and which are unique to the dense Central Business District. Finally, we discuss our findings as well as future steps. </p>
 
 # Our Process
 <p> We started by brain dumping all of our knowledge on the 3 provided questions. The three of us bring a unique perspective to our project, and it was crucial to note these differences to understand our connections and our relationship with the MTA. The two boroughs we found most interest in and familiarity with were Queens and Manhattan, which became the focal points of our project. Using MTA's open data portal, we consolidated various data reports to structure our main ideas. </p> <p> The data we used are:</p>
@@ -47,7 +47,7 @@
 
 # Analysis 
 <p>
-By analyzing the data, we noticed a particular, separate string of violation hotspots ourside Manhattan and decided to look into it more. After researching the context and surroundings of these violation hotspots, we found that it connects Queens College and other institutions to a very busy neighborhood. Many Queens College students, in addition to Townsend Harris High School and John Bowne High School students, widely use a select few bus routes. This is due to the fact that there aren’t any train stations or other modes of public transportation near the campus. These bus routes coincide directly with a string of high-violation hotspots, providing insight on the causes of these hotspots. These bus routes also directly cross Flushing-Main Street, an area that is also very busy, being a central hub for many people, buses, cars, and acting as an economic center for many businesses. 
+By analyzing the data, we noticed a particular, separate string of violation hotspots outside Manhattan and decided to look into it more. After researching the context and surroundings of these violation hotspots, we found that it connects Queens College and other institutions to a very busy neighborhood. Many Queens College students, in addition to Townsend Harris High School and John Bowne High School students, widely use a select few bus routes. This is due to the fact that there aren’t any train stations or other modes of public transportation near the campus. These bus routes coincide directly with a string of high-violation hotspots, providing insight on the causes of these hotspots. These bus routes also directly cross Flushing-Main Street, an area that is also very busy, being a central hub for many people, buses, cars, and acting as an economic center for many businesses. 
 
 Therefore, after conducting more research of the context and surroundings of violation hotspots, we found that many landmarks, tourist attractions, transfer locations, and college and institutions are in the vicinity of many violation hotspots, and that these factors aren't only unique to Manhattan.
 </p>
