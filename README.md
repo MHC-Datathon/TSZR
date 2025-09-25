@@ -10,11 +10,11 @@
 
 # Contextualizing our Question 
 <p> In this project, we kept these questions in mind: </p>
-  + How much do employees, students, and tourists impact the hotspot/ACE violations?
-  + Is it commercial use? Car services? Related bus/train lines? 
-  + Geographical? How are lanes structured?
-  + What demographic makes up these riders?
-  + What businesses are around these routes? Public/private schools? Universities?
++ How much do employees, students, and tourists impact the hotspot/ACE violations?
++ Is it commercial use? Car services? Related bus/train lines?
++ Geographical? How are lanes structured?
++ What demographic makes up these riders?
++ What businesses are around these routes? Public/private schools? Universities?
 
 <p> We also compared and contrasted two hotspots [Financial District vs Queens College route] to understand which factors are universal across NYC and which are unique to the dense Central Business District. Finally, we discuss our findings future steps. </p>
 
