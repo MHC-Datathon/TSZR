@@ -12,8 +12,8 @@
 <p> In this project, we kept these questions in mind:
   + How much do employees, students, and tourists impact the hotspot/ACE violations?
   + Is it commercial use? Car services? Related bus/train lines? 
-  + Geographical? How are lanes structured? 
-  + What demographic makes up these riders? 
+  + Geographical? How are lanes structured?
+  + What demographic makes up these riders?
   + What businesses are around these routes? Public/private schools? Universities?
 </p>
 
