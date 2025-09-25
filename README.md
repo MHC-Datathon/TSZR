@@ -54,15 +54,15 @@ Therefore, after conducting more research of the context and surroundings of vio
 
 ![queens](queens.jpg)
 
-[queens](https://public.tableau.com/app/profile/tiffany.zhu8039/viz/MTAACEViolations/HotSpots)
+[Queens College Bus Route](https://public.tableau.com/app/profile/tiffany.zhu8039/viz/MTAACEViolations/HotSpots)
 
 ![financial district](financialdistrict.jpg)
 
-![landmark](landmark.jpg)
+![Landmarks](landmark.jpg)
 
 [landmark](https://www.6sqft.com/new-interactive-map-lets-you-explore-new-york-citys-landmarks/)
 
-![cuny](cuny.jpg)
+![CUNY Colleges](cuny.jpg)
 
 # Summarizing Final Findings + Insights 
 
