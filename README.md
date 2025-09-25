@@ -20,13 +20,17 @@
 
 ### Main data 
 ![hotspot](hotspots.jpg)
-[MTA ACE VIOLATIONS]
-(https://public.tableau.com/app/profile/tiffany.zhu8039/viz/MTAACEViolations/HotSpots)
-[MTA PRE CONGESTION RIDERSHIP (MARCH 2024)] (https://public.tableau.com/app/profile/sara.lukacevic/viz/March2024ManhattanBusRidershipPre-Congestion/Sheet1)
-[MTA POST CONGESTION RIDERSHIP (MARCH 2025)]
-(https://public.tableau.com/app/profile/sara.lukacevic/viz/MTAPost-CongestionRidershipMARCH20https://public.tableau.com/app/profile/sara.lukacevic/viz/MTAPost-CongestionRidershipMARCH2025/Sheet125/Sheet1)
+[MTA ACE VIOLATIONS](https://public.tableau.com/app/profile/tiffany.zhu8039/viz/MTAACEViolations/HotSpots)
+![pre](pre.jpg)
+[MTA PRE CONGESTION RIDERSHIP (MARCH 2024)](https://public.tableau.com/app/profile/sara.lukacevic/viz/March2024ManhattanBusRidershipPre-Congestion/Sheet1)
+![post](post.jpg)
+[MTA POST CONGESTION RIDERSHIP (MARCH 2025)](https://public.tableau.com/app/profile/sara.lukacevic/viz/MTAPost-CongestionRidershipMARCH20https://public.tableau.com/app/profile/sara.lukacevic/viz/MTAPost-CongestionRidershipMARCH2025/Sheet125/Sheet1)
 
 # Analysis 
+![queens](queens.jpg)
+[queens](https://public.tableau.com/app/profile/tiffany.zhu8039/viz/MTAACEViolations/HotSpots)
+[landmark](https://www.6sqft.com/new-interactive-map-lets-you-explore-new-york-citys-landmarks/)
+[financial district](financialdistrict.jpg)
 
 # Summarizing Final Findings + Insights 
 # Final Message 
