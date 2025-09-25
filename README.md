@@ -14,7 +14,10 @@
 
 # Our Process
 <p> We started off by brain dumping all of our knowledge on the 3 provided questions. The three of us bring a unique lens to our project and it was crucial to note down these differences to understand our connections and our relation to the MTA. The two boroughs we found most interest and familiarity in were Queens and Manhattan which became the focal points of our project. Using MTA's open data portal, we consolidated various data reports to structure our main ideas. </p> <p> The data we used are:</p>
+
 [MTA-Bus-Automated-Camera-Enforcement-Violations-Beginning-October](https://data.ny.gov/Transportation/MTA-Bus-Automated-Camera-Enforcement-Violations-Be/kh8p-hcbm/about_data#)
+[MTA Bus Hourly Ridership: 2020-2024 (362M rows)](https://data.ny.gov/Transportation/MTA-Bus-Hourly-Ridership-2020-2024/kv7t-n8in/about_data)
+[MTA Bus Hourly Ridership: Beginning 2025 (87.6M rows)](https://data.ny.gov/Transportation/MTA-Bus-Hourly-Ridership-Beginning-2025/gxb3-akrn/about_data)
 
 # Visualizing Data 
 
