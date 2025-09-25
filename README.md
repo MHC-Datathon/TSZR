@@ -35,4 +35,12 @@
 ![cuny](cuny.jpg)
 
 # Summarizing Final Findings + Insights 
-# Final Message 
+
+### Ridership for Manhattan buses has increased by nearly 20,000 riders per day on average, with this number being even higher on business days. Signs of increased ridership after congestion pricing was implemented. Violations in Manhattan and Queens have increased, but that has also coincided with many bus routes being added to the ACE program. 45% of ACE violations issued are located in Manhattan and Queens during 2024-2025. 
+
+
+# Final Message + Possible Next Steps
+
+### Analyzing bus speeds as a way to measure the effect of the ACE system on efficiency.
+### Expanding ridership data to MTA trains to analyze how congestion pricing affected Manhattan public transport ridership as a whole.
+
