@@ -2,7 +2,7 @@
 ## Team Name - TSZR 
 ### Team Members - Tiffany, Sara, Zara 
 #### [Click on here for Slide Deck](https://docs.google.com/presentation/d/1-3IXw0iE8VQ_0b0aUahq8Otvlld98QaLHnTVF3NJFz0/edit?usp=sharing) 
-#### Click here to view Video Explanation: 
+#### [Click here to view our Video Rundown](https://drive.google.com/file/d/1xkgmTeI3tB3tdb-TPzs-LzxR0N99fn2q/view?usp=sharing)
 
 # Project Question 
 
