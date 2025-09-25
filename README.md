@@ -10,6 +10,7 @@
 
 # Contextualizing our Question 
 <p> In this project, we kept these questions in mind: </p>
+
 - How much do employees, students, and tourists impact the hotspot/ACE violations?
 - Is it commercial use? Car services? Related bus/train lines?
 - Geographical? How are lanes structured?
