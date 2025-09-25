@@ -32,10 +32,15 @@
 ### Main data 
 ## Do click on the links below as the images only show a snapshot of what we visualized. The MTA ACE violations Tableau for instance records multiple other data points too!
 ![hotspot](hotspots.jpg)
+
 [MTA ACE VIOLATIONS](https://public.tableau.com/app/profile/tiffany.zhu8039/viz/MTAACEViolations/HotSpots)
+
 ![pre](pre.jpg)
+
 [MTA PRE CONGESTION RIDERSHIP (MARCH 2024)](https://public.tableau.com/app/profile/sara.lukacevic/viz/March2024ManhattanBusRidershipPre-Congestion/Sheet1)
+
 ![post](post.jpg)
+
 [MTA POST CONGESTION RIDERSHIP (MARCH 2025)](https://public.tableau.com/app/profile/sara.lukacevic/viz/MTAPost-CongestionRidershipMARCH20https://public.tableau.com/app/profile/sara.lukacevic/viz/MTAPost-CongestionRidershipMARCH2025/Sheet125/Sheet1)
 
 <p> -- The source datasets for #2 and #3 were sorted hourly and by route, and so we aggregated the data for each day, regardless of the hour or route, for the months of March 2024 and March 2025 respectively. Then, we calculated the average throughout the month to compare Manhattan Bus Ridership before the implementation of congestion pricing (March 2024), and after (March 2025), given it was implemented on January 5th, 2025. </p>
